@@ -37,6 +37,7 @@ According to some estimates, half of the 7,000+ currently spoken languages are e
 - [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) - Python library for common text processing and NLP tasks in Indian languages including tokenization, normalization, and transliteration.
 - [IndicTrans2](https://github.com/AI4Bharat/IndicTrans2) - Open-source translation models for all 22 scheduled languages of India.
 - [Living Tongues](http://livingtongues.org/) - Living Tongues Institute for Endangered Languages works to document, revitalize, and maintain endangered languages.
+- [Languages of the World (low)](https://github.com/jnehring/languages-of-the-world) - Python library that merges ISO 639-3, Glottolog, Unicode CLDR, LinguaMeta, Wikidata and other open datasets into one graph of 7,900+ languages, with endangerment status, language families, scripts, endonyms and per-country speaker counts from each source. 
 - [NLTK](https://github.com/nltk/nltk) - Natural Language Toolkit (NLTK) for Python.
 
 ## Annotation
