@@ -251,6 +251,12 @@ _ben :: Bangla_
 - [Bangla-Onkur for Mac](https://sourceforge.net/projects/onkur/) - This project aims to develop a phonetic based Bangla typing system for Macintosh computer which can be developed into a transliteration technique in the future.
 - [Ekushey](https://sourceforge.net/projects/ekushey/) - Bangla Computing and Localization Project for the Bangla speaking people.
 
+### Celtic Languages (Irish, Welsh, Scottish Gaelic, Manx, Breton, Cornish)
+
+_br, cy, ga, gd, gv, kw_
+
+- [Teanga Bench](https://github.com/johnway114/teanga-bench) - Open evaluation harness and leaderboard ([research.blasapp.com](https://research.blasapp.com)) measuring LLM morphology, translation, round-trip translation, and error-correction tutoring across six Celtic languages (Apache-2.0; 20 public sample items per test, full 1,500-item Blas suite held out).
+
 ### Chichewa
 
 _nya :: chichewa_
